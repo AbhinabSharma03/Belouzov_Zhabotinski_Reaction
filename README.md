@@ -102,7 +102,6 @@ If you use this code in your research, please cite:
   title = {BZ Reaction Numerical Solver},
   year = {2024},
   url = {https://github.com/AbhinabSharma03/Belouzov_Zhabotinski_Reaction}
-}
 ```
 
 ## Acknowledgments
