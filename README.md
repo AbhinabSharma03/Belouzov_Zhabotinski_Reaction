@@ -17,7 +17,7 @@ A Python implementation of a Runge-Kutta 4th Order solver for the Belousov-Zhabo
 
 Clone the repository:
 ```bash
-git clone https://github.com/Belouzov_Zhabotinski_Reaction.git
+git clone https://github.com/AbhinabSharma03/Belouzov_Zhabotinski_Reaction.git
 cd Belouzov_Zhabotinski_Reaction
 ```
 
