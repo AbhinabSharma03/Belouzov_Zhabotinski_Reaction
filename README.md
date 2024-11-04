@@ -1,7 +1,6 @@
 # BZ Reaction Numerical Solver
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 A Python implementation of a Runge-Kutta 4th Order solver for the Belousov-Zhabotinsky (BZ) reaction system. This code provides numerical solutions and visualizations for the BZ reaction dynamics, demonstrating both oscillatory and non-oscillatory behaviors based on different parameter values.
 
