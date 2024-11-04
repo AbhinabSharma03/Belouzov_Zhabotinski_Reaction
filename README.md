@@ -98,7 +98,6 @@ You can modify the code to:
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{bz_reaction_solver,
   author = {Abhinab Sharma},
   title = {BZ Reaction Numerical Solver},
   year = {2024},
